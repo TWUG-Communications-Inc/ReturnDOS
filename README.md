@@ -16,3 +16,15 @@ ReturnDOS is An Aplication for ReturnOS 1.0 that is designed to Run DOS Applicat
 ReturnDOS Currently Supports DOS 1.25 (FE) and 2.0 (SE) 
 We Are Planning To Add 3.0, 4.0, 5.0 and 6.0
 If You Have some of the DOS Versions Mentioned Before then Upload It To Help This Project!
+How To Upload
+1. Click "Add File" in Main Page of the Repostory
+![<Part 1 This Can Take a few Time To Refresh](1.png)
+2. In The Mini Menu Click "Upload Files"
+ ![Part 2 This can take a Few Time To Refresh](2.png)
+ 3. Drag N Drop Files OR Choose your DOS Files
+ ![Part 3 This can take a few Time To Referesh](3.png)
+ 4. Commit and Pull your Files To The Repostory
+ ![Part 4 this can take a few Time To Refresh](4.png)
+ 5.To End,Click "Commit Changes"
+ ![Part 5 this can take a few time to Refresh](5.png)
+ NOTE: To Make Sure That is DOS Create a Folder with the Version (ex 1.25 or 2.0)
